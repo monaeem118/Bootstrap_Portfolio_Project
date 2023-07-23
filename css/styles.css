@@ -1,0 +1,124 @@
+body {
+  background-color: #f8f0e3;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.1rem;
+  transition: all 0.4s ease-in-out;
+  font-weight: 500;
+}
+
+h1 {
+  font-family: "Poppins", arial;
+  font-size: 50px;
+  color: #12181b;
+  text-align: center;
+  margin-top: 10pc;
+}
+
+h2 {
+  color: #17a2b8;
+  text-align: center;
+}
+
+h4 {
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-align: justify;
+}
+
+h5 {
+  font-weight: bold;
+}
+
+.navbar {
+  background-color: #454e56;
+}
+
+.jumbotron {
+  margin: 0;
+  padding: 30px;
+  background-color: #f8f0e3;
+}
+
+.row-content {
+  padding: 40px 0;
+  border-bottom: 1px ridge;
+  min-height: 400px;
+  font-size: 1.1rem;
+  color: #12181b;
+  font-size: 25px;
+}
+
+.skills-bg {
+  width: 45%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {
+  width: 90%;
+  background-color: #04aa6d;
+}
+
+.css {
+  width: 80%;
+  background-color: #2196f3;
+}
+
+.js {
+  width: 65%;
+  background-color: #f44336;
+}
+
+.python {
+  width: 60%;
+  background-color: #808080;
+}
+
+.mySkills {
+  padding: 50px;
+  font-weight: bold;
+}
+.mySkills p,
+.mySkills h5 {
+  font-style: "Poppins", sans-serif;
+  padding-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.mySocials {
+  margin-left: auto;
+  margin-right: auto;
+}
+.mySocials .btn {
+  margin-left: auto;
+}
+
+#carouselButton {
+  position: absolute;
+  right: 0;
+  bottom: 10;
+  z-index: 100;
+}
+
+.carousel-item {
+  padding: 10px;
+}
+.carousel-item p,
+.carousel-item h3 {
+  padding: 10px;
+  text-align: center;
+}
+.carousel-item h3 {
+  font-style: "Poppins", arial;
+}
+
+.site-footer {
+  margin-top: 15pc;
+}/*# sourceMappingURL=styles.css.map */
